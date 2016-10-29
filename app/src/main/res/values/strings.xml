@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">第1个Activity</string>
+    <string name="app_name">Slide</string>
+	<string name="sec">第2个Activity</string>
+    <string name="silde1">左进  右出</string>
+    <string name="silde2">右进  左出</string>
+    <string name="silde3">下进  上出</string>
+    <string name="silde4">上进  下出</string>
+    <string name="silde5">右下进  左上出</string>
+    <string name="silde6">交叉进出</string>
+
+</resources>
